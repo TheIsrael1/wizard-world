@@ -5,7 +5,8 @@ First of all, Clone the project
 
 Then run 
 
-```yarn
+```bash
+yarn
 # or
 npm i
 ```
@@ -22,6 +23,7 @@ yarn dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 Project Routes:
+
 /elixirs
 
 /spells
